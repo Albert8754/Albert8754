@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Albert
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on DL
+- 🌱 I’m currently learning DL
+- 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me albertruby08@gmail.com
 
 <!---
